@@ -1,0 +1,2 @@
+# ignoring large json files - find in zipped folders
+*.json
